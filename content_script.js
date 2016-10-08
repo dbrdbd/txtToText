@@ -1,6 +1,6 @@
 var substitute = (function() {
 	"use strict";
-	var replacements, ignore i, replacementObjects, original;
+	var replacements, ignore, i, replacementObjects, original;
 	replacements = [
 		['txt', 'text'],
 		['lol', 'laugh out loud'],
